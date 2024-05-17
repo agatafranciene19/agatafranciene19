@@ -3,7 +3,7 @@ Sou a Ágata Franciene
 Estou estudando na Alura
 Vou utilizar esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos!
 
-! [] https://www.icegif.com/wp-content/uploads/2022/06/icegif-247.gif
+! [ https://www.icegif.com/wp-content/uploads/2022/06/icegif-247.gif ]
 
 **Projetinhos feitos com o Scratch:** :3 
 
